@@ -8,7 +8,7 @@
   outline: none;
 }
 body {
-  background-color: #3f5de1;
+background: linear-gradient(blue, green);
 }
 
 h2{
